@@ -7,6 +7,8 @@ User Stories:
     Register with a username and password 
 
     Login with a username and password 
+    
+    Edit current users profile
 
     Open a new checking or savings account 
 
