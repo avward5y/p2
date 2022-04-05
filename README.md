@@ -17,6 +17,8 @@ User Stories:
     Make a deposit 
 
     Transfer money between accounts 
+    
+    View their account transactions
 
     The System will: 
 
