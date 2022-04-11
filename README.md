@@ -1,31 +1,35 @@
 # P2_Banking_WebApp
 
+
+
 User Stories:
 
-    Users can:  
+    - Users can:  
 
-    Register with a username and password 
+    - Register with a username and password 
 
-    Login with a username and password 
+    - Login with a username and password 
     
-    Edit current users profile
+    - Edit current users profile
 
-    Open a new checking or savings account 
+    - Open a new checking or savings account 
 
-    View all accounts and balances 
+    - View all accounts and balances 
 
-    Make a withdrawal 
+    - Make a withdrawal 
 
-    Make a deposit 
+    - Make a deposit 
 
-    Transfer money between accounts 
+    - Transfer money between accounts 
     
-    View their account transactions
+    - View their account transactions
 
-    The System will: 
+    - The System will: 
 
-    Reject invalid deposits 
+    - Reject invalid deposits 
 
-    Reject invalid withdrawals 
+    - Reject invalid withdrawals 
 
-    Reject invalid transfers 
+    - Reject invalid transfers 
+    
+    
