@@ -32,4 +32,5 @@ User Stories:
 
     - Reject invalid transfers 
     
-    
+    To-do list:
+     - Connect frontend with backend
