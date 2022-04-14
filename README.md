@@ -1,5 +1,6 @@
 # P2_Banking_WebApp
 
+Our goal with this web-app was to create a typical banking app, being able to manage users, accounts, and  perform basic transactions between accounts. Using our web app a User can register a profile with us, login to the site, open a checking and/or savings account and withdraw, deposit, and transfer funds.
 
 
 User Stories:
