@@ -4,10 +4,10 @@ Our goal with this web-app was to create a typical banking app, being able to ma
 
 # Roles/Responsibilities:
 
-Dieu Phan - Front-end development
-Karlos Ferbos - Back-end development/Testing
-Alfred Ward - Front and Back end development
-Peter Disabella - Database Management/ Front-End Development
+    -Dieu Phan - Front-end development
+    -Karlos Ferbos - Back-end development/Testing
+    -Alfred Ward - Front and Back end development   
+    -Peter Disabella - Database Management/ Front-End Development
 
 
 
